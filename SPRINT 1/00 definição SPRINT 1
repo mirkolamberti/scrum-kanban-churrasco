@@ -1,0 +1,27 @@
+DEFINIÇÃO SPRINT 1 - PLANEJAMENTO
+
+Vamos definir o que será preciso fazer para planejar este churrasco:
+
+- definir data e hora
+- definir localização
+- definir número participantes
+- definir budget
+- definir menu e bebidas
+- definir ferramentas
+
+Para fazer isso vamos criar 2 equipes que possam trabalhar em paralelo.
+Cada equipe gera um branch do projeto e trabalha nesta pasta gerando os arquivos necessários.
+É usado o projeto geral SCRUM-CURRASCO para acompanhar o andamento.
+São usadas as Issues para definir cada item a ser resolvido.
+
+EQUIPE 1 (Gilv, Jana, João)
+- definir data e hora
+- definir localização
+- definir número participantes
+
+EQUIPE 2 (Alin, Vict)
+- definir budget
+- definir menu e bebidas
+- definir ferramentas
+
+
