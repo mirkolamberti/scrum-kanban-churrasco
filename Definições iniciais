@@ -1,0 +1,30 @@
+PROJETO CHURRASCO
+
+Definições iniciais.
+
+Fomos contatados pela Macrohard para organizar um churrasco corporativo. Por causa da pandemia precisamo evitar aglomerações. Serão tomados todos os cuidados de distânciamento para que sejam evitadas aglomerações. Todas as operações de organização até a entrega e finalização do evento serão gerenciadas via GitHub.
+
+DISCLAIMER: Todas as indicações escritas a seguir são completamente inventadas. O objetivo é ilustrar como pode ser gerenciado um projeto utilizando metodologias ágeis SCRUM, KANBAN e a plataforma GitHub. A narrativa usada serve para explicar melhor como cada parte se encaixa com as outras.
+
+Este documento de definições iniciais é o primeiro passo para iniciar o projeto.
+
+Neste documento de definição vamos listar algumas características que este churrasco vai ter:
+- a organização é feita com colaboradores convidados neste repositório;
+- os passos serão desde o planejamento inicial até a entrega e feedback final.
+
+Lista personagens e papeis:
+- Macrohard: cliente (PRODUCT OWNER)
+- Mirko (eu): Cerimonialista (SCRUM MASTER)
+- Gilv: Líder de equipe (EQUIPE)
+- Jana: Financeiro faixa ouro (EQUIPE)
+- Alin: Relações públicas faixa vermelha (EQUIPE)
+- João: Relações públicas faixa azul (EQUIPE)
+- Vict: Churrasqueiro faixa preta (EQUIPE)
+
+Cronograma SPRINTs:
+- SPRINT 1 - PLANEJAMENTO: definições ligadas ao evento
+- SPRINT 2 - PREPARAÇÃO: preparações antes do início
+- SPRINT 3 - EVENTO: preparação dos pedidos durante o evento
+- SPRINT 4 - ENCERRAMENTO: revisão do evento e feedback finais
+
+
