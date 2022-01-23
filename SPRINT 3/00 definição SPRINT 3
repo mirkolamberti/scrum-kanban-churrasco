@@ -1,0 +1,17 @@
+SPRINT 3 - EXECUÇÃO
+
+Estamos no evento. Vamos usar um KANBAN para preparar os pedidos que chegam.
+Como é organizada a festa:
+
+- As pessoas estão espalhadas no campus e cada uma dela faz um pedido via App
+- O pedido chega na central de controle que verifica a sua validade e coloca uma nova Issue para execução
+- O pessoal já treinado pega o pedido (sistema Push) e executa ele até o final
+- O pedido é colocado num robô que entrega direto ao usuário final
+
+O projeto prevê as seguintes colunas:
+
+- entrata pedido (Backlog) > quando a Issue é gerada
+- assadura > os pedidos que precisam de assadura passam por aqui
+- completa ingredientes > coloca ingrediêntes e bebidas a mais numa bandeja
+- montagem > após todos os ingredientes serem prontos é feita a montagem do prato
+- entrega (Done) > o pedido é embrulhado e colocado no robô para entrega
